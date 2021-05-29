@@ -148,4 +148,3 @@ function showMyDB() {
 }
 
 showMyDB(personalMovieDB.privat);
-
